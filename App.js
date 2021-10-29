@@ -15,8 +15,8 @@ export default function App() {
   //const {landscape} = useDeviceOrientation();
   //const handlePress = ()=> console.log("Text clicked!");
   
-  //return <WelcomeScreen />;  
-  return <ViewImageScreen />;
+  return <WelcomeScreen />;  
+  // return <ViewImageScreen />;
   // (
 
     // welcomescreen
